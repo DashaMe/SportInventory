@@ -1,0 +1,6 @@
+c:\users\dasha\documents\visual studio 2017\Projects\SportInventory\SportInventory\bin\Debug\SportInventory.exe.config
+c:\users\dasha\documents\visual studio 2017\Projects\SportInventory\SportInventory\bin\Debug\SportInventory.exe
+c:\users\dasha\documents\visual studio 2017\Projects\SportInventory\SportInventory\bin\Debug\SportInventory.pdb
+c:\users\dasha\documents\visual studio 2017\Projects\SportInventory\SportInventory\obj\Debug\SportInventory.csprojResolveAssemblyReference.cache
+c:\users\dasha\documents\visual studio 2017\Projects\SportInventory\SportInventory\obj\Debug\SportInventory.exe
+c:\users\dasha\documents\visual studio 2017\Projects\SportInventory\SportInventory\obj\Debug\SportInventory.pdb
